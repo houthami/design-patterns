@@ -1,0 +1,16 @@
+{
+  "factory_methode": {
+    "icommun": "Class3",
+    "object": "Object2"
+  },
+  "abstract_factory": {
+    "class": "Class2"
+  },
+  "builder": {
+    "class": "BuilderClass",
+    "methods": [
+      {"name": "setObject1" , "attribute": ["test o1"]},
+      {"name": "setObject3" , "attribute": ["test o3"]}
+    ]
+  }
+}
